@@ -19,7 +19,7 @@
                 
                 <div class="card-content" style="padding: 40px;">
                     <h4 class="center-align blue-text text-darken-2">Iniciar Sesión</h4>
-                    <br> <form action="./Logica/validarlogin.php" method="POST">
+                    <br> <form action="./controller/validarlogin.php" method="POST">
                         
                         <div class="input-field">
                             <i class="material-icons prefix">account_circle</i>
