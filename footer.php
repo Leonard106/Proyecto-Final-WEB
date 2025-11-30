@@ -14,8 +14,11 @@
       <div class="row">
         <div class="col l6 s12">
           <h5 class="white-text">FES Aragon</h5>
-          <p class="grey-text text-lighten-4">Hecho en México, Universidad Nacional Autónoma de México (UNAM), todos los derechos reservados 2025. Esta página puede ser reproducida con fines no lucrativos, siempre y cuando no se mutile, se cite la fuente completa y su dirección electrónica. De otra forma, requiere permiso previo por escrito de la institución.</p>
-        </div>
+          <p class="grey-text text-lighten-4">Esta pagina es presentada como proyecto de Materia de progrmacion WEB <p>
+          <p class="grey-text text-lighten-4">Grupo: 1508 <p>
+          <p class="grey-text text-lighten-4">Integrantes del equipo<p>
+		      <p class="grey-text text-lighten-4">-Alamilla Cordova Angel Gabriel <p>
+          <p class="grey-text text-lighten-4">-Cortes Arrriaga Leonardo <p>
       </div>
     </div>
     <div class="footer-copyright">
